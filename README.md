@@ -51,15 +51,15 @@ The LSB is the first-encountered varint, bit 30 is the last it can do.
 ```
 3. grab and install this code
 ```bash
-   git clone https://github.com/gitcnd/SerialID.git
+   git clone https://github.com/gitcnd/PrintPB.git
 ```
 4. restart your arduino IDE
-5. Choose File => Examples => SerialID => hello
+5. Choose File => Examples => PrintPB => hello
 6. Hit the "build" button and enjoy!
 
 (Method 2) - see https://www.arduino.cc/en/Guide/Libraries
 
-1. Download the ZIP of this repo: https://github.com/gitcnd/SerialID/archive/master.zip
+1. Download the ZIP of this repo: https://github.com/gitcnd/PrintPB/archive/master.zip
 2. In your IDE, select Sketch -> Include Library -> Add .ZIP Library
-3. Choose File => Examples => SerialID => hello
+3. Choose File => Examples => PrintPB => hello
 4. Hit the "build" button and enjoy!
